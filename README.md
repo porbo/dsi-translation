@@ -1,13 +1,13 @@
 Details in Spanish_Translation_Test.pdf
 
-# Translation AB test?
+# Translation AB test
 ## Problem
 A website originally had a Spaniard do the translation for all Spanish speakers.
 The website wanted to test having native translators for Spanish speakers in other countries (Argentina, Mexico, etc)
-However, this appears to lower conversion.
+However, this appears to lower conversion rates.
 
 ## Conclusion
-This conclusion is incorrect; actually, there appears to be no significant difference in conversion between the Spaniard's and the native translators.
+The above conclusion is incorrect; actually, there appears to be no significant difference in conversion between the Spaniard's and the native translators.
 
 The apparently lower conversion has two specific causes:
 1. All cases in Spain were classified as part of the control group. Since Spain's conversion rate is generally higher,
