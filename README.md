@@ -17,6 +17,8 @@ If we look country by country, we see that there is no country where the native 
 
 On a side note, the original data includes plenty of users using the English or other versions of the website. We should not include them when testing the effect of different Spanish translations, but this was not the main issue this time. 
 
+Also, Uruguay has the same issue as Argentina: low general conversion rates with more test than control. Uruguay did not have enough users to affect the aggregated result, and it's solved the same way: check country by country. 
+
 ## Solution
 As a quick check if we encounter this issue in the future, we can use the total_vs_bycountry function in src.check.
 This will say if the full data's significance matches what we get if we check for significant differences country by country.
