@@ -1,1 +1,1 @@
-nothing here yet
+Details in Spanish_Translation_Test.pdf
