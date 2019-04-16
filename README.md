@@ -25,9 +25,20 @@ This will say if the full data's significance matches what we get if we check fo
 
 If it returns false, that mean's something's wrong: we see a significant difference with aggregated data but none of the individual countries are significant, or vice versa.
 ```
+import pandas as pd
 from src.check import total_vs_bycountry
+
+user = pd.read_csv('data/user.csv')
+test = pd.read_csv('data/test.csv')
+
 total_vs_bycountry(user,test)
-#total_vs_bycountry(df)
+```
+
+If we want to filter out Spain and people not using Spanish:
+```
+from src.util import df_filter
+df = df_filter(user, test)
+total_vs_bycountry(df)
 ```
 
 
