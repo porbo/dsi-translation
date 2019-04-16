@@ -15,7 +15,7 @@ The apparently lower conversion has two specific causes:
 
 If we look country by country, we see that there is no country where the native translators caused a significant change in conversion rate.
 
-On a side note, the original data includes plenty of users using the English or other versions of the website. We should not include them when testing the effect of different Spanish translations, but in this case, this was not the main issue.
+On a side note, the original data includes plenty of users using the English or other versions of the website. We should not include them when testing the effect of different Spanish translations, but this was not the main issue this time. 
 
 ## Solution
 As a quick check if we encounter this issue in the future, we can use the total_vs_bycountry function in src.check.
