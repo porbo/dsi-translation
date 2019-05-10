@@ -10,7 +10,7 @@ However, this appears to lower conversion rates.
 The above conclusion is incorrect; actually, there appears to be no significant difference in conversion between the Spaniard's and the native translators.
 
 The apparently lower conversion has two specific causes:
-1. All cases in Spain were classified as part of the control group. Since Spain's conversion rate is generally higher,
+1. All cases in Spain were classified as part of the control group. Thus, Spain's high conversion rate deceptively raised the aggregate "control group's" conversion rate.
 2. Argentina has a very low general conversion rate in general, and most users in Argentina were shown the test translation. As a result, when aggregating data together, Argentina disproportionately lowered the average conversion rate of the test group.
 
 If we look country by country, we see that there is no country where the native translators caused a significant change in conversion rate.
